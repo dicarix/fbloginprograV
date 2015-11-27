@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FacebookLoginASPnetWebForms.account {
+namespace FacebookLoginPrograV.account {
     
     
     public partial class user {

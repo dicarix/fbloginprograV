@@ -10,9 +10,9 @@ using System.Web.Script.Serialization;
 using System.Web.Security;
 using System.Collections;
 using System.Configuration;
-using FacebookLoginASPnetWebForms.Models;
+using FacebookLoginPrograV.Models;
 
-namespace FacebookLoginASPnetWebForms.account
+namespace FacebookLoginPrograV.account
 {
     public partial class user : System.Web.UI.Page
     {

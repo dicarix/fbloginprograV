@@ -6,7 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Configuration;
 
-namespace FacebookLoginASPnetWebForms
+namespace FacebookLoginPrograV
 {
     public partial class Default : System.Web.UI.Page
     {
