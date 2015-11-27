@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="FacebookLoginASPnetWebForms.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="FacebookLoginPrograV.Global" Language="C#" %>
